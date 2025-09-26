@@ -543,9 +543,7 @@ input:focus, textarea:focus{
     .menu-button{
         display: block;
     }
-    .background-img{
-        display: none;
-    }
+    
     .skill-icon{
         width: 80px;
         height: 80px;
